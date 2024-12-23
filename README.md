@@ -1,1 +1,1 @@
-This project involves analyzing music databases with multiple schemas using SQL.
+This project involves analyzing music database with multiple schemas using SQL.
