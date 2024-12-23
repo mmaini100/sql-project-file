@@ -1,6 +1,6 @@
 
-/* Q1: Who is the senior most employee based on job title? */
-select * from employee 
+/* Q1: Who is the senior most employee based on job title? return employee id, full name and levels. */
+select employee_id, last_name,first_name, levels from employee 
 ORDER BY LEVELS DESC limit 1;
 
 
